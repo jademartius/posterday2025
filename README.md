@@ -10,7 +10,7 @@ This project explores how machine learning can support **early stroke risk predi
 - Build ML models that work well on **small, privacy-restricted datasets** without overfitting.
 - Improve **interpretability** to support clinical decision-making.
 - Address **class imbalance** to minimize false negatives.
-- Optimize for **real-time hospital deployment**.
+- Use Logistic Regression as a baseline to **assess if complex models justify their cost and accuracy trade-offs**.
 
 ## 🗂️ Dataset
 
