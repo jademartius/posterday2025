@@ -51,7 +51,7 @@ This project explores how machine learning can support **early stroke risk predi
 ## 🎬 Poster Video
 
 Watch our video presentation here:  
-[📺 YouTube Link – Presentation](#) *(https://www.youtube.com/watch?v=FsRFX6VEKMc)*
+[📺 YouTube Link – Presentation](https://www.youtube.com/watch?v=FsRFX6VEKMc)
 
 ## 📎 Authors
 
